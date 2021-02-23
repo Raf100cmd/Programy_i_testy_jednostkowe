@@ -6,7 +6,7 @@
       * **[Przypadek testowy](https://drive.google.com/file/d/1nRk5I4VBWc34KzRxMLTKCpRG1ayW_9pe/view?usp=sharing)**
       * **[Kroki](https://drive.google.com/file/d/1G272n4Xioen-UZfUa5_daMsjAhHY0grq/view?usp=sharing)**
       * **Wynik** _- Wynik testu wraz z logiem ekranu i komentarzem_
-          * **[Wynik testu]()**
+          * **[Wynik testu](https://drive.google.com/file/d/1B-xv1R2NDIqMWg0LqnmbdiUGnEySzWUe/view?usp=sharing)**
           
 * **2. Obliczanie wartości bezwględnej**
 * **3. Kalkulator - funkcja dodawania**
