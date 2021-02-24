@@ -9,7 +9,7 @@
           * **[Wynik testu](https://drive.google.com/file/d/1B-xv1R2NDIqMWg0LqnmbdiUGnEySzWUe/view?usp=sharing)**
           
 * **2. Obliczanie wartości bezwględnej**
-   * **[Program](https://drive.google.com/file/d/1rbY5JX0x4fdqWvsbxBBrSBHsdXd1vbkB/view?usp=sharing)**
+   * **[Program](https://drive.google.com/file/d/13xYSwq4JW7cqBkDeCMgtEACVJ7TUPxrT/view?usp=sharing)**
    * **Testy**
       * **[Scenariusz testowy](https://drive.google.com/file/d/1OciBgOmnOa8fKw37ADswjgP116KZCLH_/view?usp=sharing)**
       * **[Przypadek testowy](https://drive.google.com/file/d/17wF5_M1A134xVc_3gs6J10NFwEAJ8AbM/view?usp=sharing)**
