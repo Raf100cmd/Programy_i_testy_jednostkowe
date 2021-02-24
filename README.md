@@ -9,6 +9,12 @@
           * **[Wynik testu](https://drive.google.com/file/d/1B-xv1R2NDIqMWg0LqnmbdiUGnEySzWUe/view?usp=sharing)**
           
 * **2. Obliczanie wartości bezwględnej**
+   * **[Program](https://drive.google.com/file/d/1rbY5JX0x4fdqWvsbxBBrSBHsdXd1vbkB/view?usp=sharing)**
+   * **Testy**
+      * **[Scenariusz testowy](https://drive.google.com/file/d/1OciBgOmnOa8fKw37ADswjgP116KZCLH_/view?usp=sharing)**
+      * **[Przypadek testowy](https://drive.google.com/file/d/17wF5_M1A134xVc_3gs6J10NFwEAJ8AbM/view?usp=sharing)**
+      * **[Kroki](https://drive.google.com/file/d/1sx8EXWnbVK0T76WW2zlwczStDsqcFEJ2/view?usp=sharing)**
+      * **Wynik** _-Wynik testu z logiem ekranu i komentarzem
 * **3. Kalkulator - funkcja dodawania**
    * **[Program](https://drive.google.com/file/d/1DUH2fr-WO4R64zo1tuOs2U7HG2qF41fD/view?usp=sharing)**
    * **Testy**
