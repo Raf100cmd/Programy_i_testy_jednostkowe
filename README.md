@@ -14,7 +14,7 @@
       * **[Scenariusz testowy](https://drive.google.com/file/d/1OciBgOmnOa8fKw37ADswjgP116KZCLH_/view?usp=sharing)**
       * **[Przypadek testowy](https://drive.google.com/file/d/17wF5_M1A134xVc_3gs6J10NFwEAJ8AbM/view?usp=sharing)**
       * **[Kroki](https://drive.google.com/file/d/1sx8EXWnbVK0T76WW2zlwczStDsqcFEJ2/view?usp=sharing)**
-      * **Wynik** _-Wynik testu z logiem ekranu i komentarzem
+      * **Wynik** -Wynik testu z logiem ekranu i komentarzem
          * **[Wynik testu](https://drive.google.com/file/d/1-apO6oBB2mwDHnyhKIGwhbQCjapgkRiv/view?usp=sharing)** _(1 test zdany i 1 test nie zdany)_
          * **[Uruchomienie programu przy użyciu metody main](https://drive.google.com/file/d/1HqJxoOGmumYBFqSV-xFNZA1NcU4liykS/view?usp=sharing)** _Na potrzeby sprawdzenia programu uruchomiono sam program_
 * **3. Kalkulator - funkcja dodawania**
