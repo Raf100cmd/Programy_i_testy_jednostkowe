@@ -16,7 +16,7 @@
       * **[Kroki](https://drive.google.com/file/d/1sx8EXWnbVK0T76WW2zlwczStDsqcFEJ2/view?usp=sharing)**
       * **Wynik** -Wynik testu z logiem ekranu i komentarzem
          * **[Wynik testu](https://drive.google.com/file/d/1-apO6oBB2mwDHnyhKIGwhbQCjapgkRiv/view?usp=sharing)** _(1 test zdany i 1 test nie zdany)_
-         * **[Uruchomienie programu przy użyciu metody main](https://drive.google.com/file/d/1HqJxoOGmumYBFqSV-xFNZA1NcU4liykS/view?usp=sharing)** _Na potrzeby sprawdzenia poprawnaości napisania programu, uruchomiono sam program_
+         * **[Uruchomienie programu przy użyciu metody main](https://drive.google.com/file/d/1HqJxoOGmumYBFqSV-xFNZA1NcU4liykS/view?usp=sharing)** _Na potrzeby sprawdzenia poprawności napisania programu, uruchomiono sam program_
 * **3. Kalkulator - funkcja dodawania**
    * **[Program](https://drive.google.com/file/d/1DUH2fr-WO4R64zo1tuOs2U7HG2qF41fD/view?usp=sharing)**
    * **Testy**
