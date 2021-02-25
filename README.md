@@ -18,7 +18,8 @@
          * **[Wynik testu](https://drive.google.com/file/d/1-apO6oBB2mwDHnyhKIGwhbQCjapgkRiv/view?usp=sharing)** _(1 test zdany i 1 test nie zdany)_
          * **[Uruchomienie programu przy użyciu metody main](https://drive.google.com/file/d/1HqJxoOGmumYBFqSV-xFNZA1NcU4liykS/view?usp=sharing)** _Na potrzeby sprawdzenia poprawności napisania programu, uruchomiono sam program_
          * **[Poprawione kroki scenariusz testowego](https://drive.google.com/file/d/1Kt3sMTrwcPALAIbf2dtgDJ6zGlUJjfo0/view?usp=sharing)** _nowe kroki do scenariusza testowego_
-            * [Co uległo poprawie]() 
+            * [Co uległo poprawie](https://drive.google.com/file/d/1ORE_dTXW8b-eJyClAIeT6mvwhilVKVWZ/view?usp=sharing) 
+         * **[Wynik testu po uwzględnienu poprawek - Test nr 2]()**
 * **3. Kalkulator - funkcja dodawania**
    * **[Program](https://drive.google.com/file/d/1DUH2fr-WO4R64zo1tuOs2U7HG2qF41fD/view?usp=sharing)**
    * **Testy**
